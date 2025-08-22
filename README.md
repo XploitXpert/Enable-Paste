@@ -25,8 +25,8 @@ It is useful for situations where **pasting is not supported** (e.g., password f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/clipboard-typing-script.git
-   cd clipboard-typing-script
+   git clone https://github.com/XploitXpert/Enable-Paste.git
+   cd Enable-Paste
    ```
 
 2. Install dependencies:
