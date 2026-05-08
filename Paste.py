@@ -39,6 +39,7 @@ def is_text_field_active():
 
 def trigger_typing():
     """Fetch text from clipboard and type it."""
+    time.sleep(1)  # Short delay to let user release the hotkeys
     text = get_clipboard_text()
     if text:
         if is_text_field_active():
